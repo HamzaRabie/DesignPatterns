@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FactoryMethod/FactoryMethod.csproj" />
+  <Project Path="Singleton/Singleton.csproj" />
+</Solution>
