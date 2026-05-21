@@ -1,4 +1,5 @@
 <Solution>
-  <Project Path="FactoryMethod/FactoryMethod.csproj" />
+  <Project Path="Builder/Builder.csproj" Id="37b50ab2-4a53-4fd0-bcbe-91e1262c635f" />
+  <Project Path="FactoryMethod/Factory.csproj" />
   <Project Path="Singleton/Singleton.csproj" />
 </Solution>
