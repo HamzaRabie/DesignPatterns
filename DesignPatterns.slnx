@@ -1,8 +1,9 @@
 <Solution>
-  <Project Path="Adapter/Adapter.csproj" Id="be9c9a99-89ca-4661-a3bf-63e6bbe075f4" />
-  <Project Path="Builder/Builder.csproj" Id="37b50ab2-4a53-4fd0-bcbe-91e1262c635f" />
-  <Project Path="Decorator/Decorator.csproj" Id="e426cbac-2c00-419f-a119-3c59d005fc91" />
-  <Project Path="Facade/Facade.csproj" Id="b5915de3-65e2-4f57-aa2d-f0a20a566e75" />
-  <Project Path="FactoryMethod/Factory.csproj" />
-  <Project Path="Singleton/Singleton.csproj" />
+  <Project Path="D:/Road To FAANG/DesignPatterns/Adapter/Adapter.csproj" Id="be9c9a99-89ca-4661-a3bf-63e6bbe075f4" />
+  <Project Path="D:/Road To FAANG/DesignPatterns/Builder/Builder.csproj" Id="37b50ab2-4a53-4fd0-bcbe-91e1262c635f" />
+  <Project Path="D:/Road To FAANG/DesignPatterns/Decorator/Decorator.csproj" Id="e426cbac-2c00-419f-a119-3c59d005fc91" />
+  <Project Path="D:/Road To FAANG/DesignPatterns/Facade/Facade.csproj" Id="b5915de3-65e2-4f57-aa2d-f0a20a566e75" />
+  <Project Path="D:/Road To FAANG/DesignPatterns/FactoryMethod/Factory.csproj" />
+  <Project Path="D:/Road To FAANG/DesignPatterns/Observer/Observer.csproj" Id="165bd6b9-8a07-404b-9282-c84aa2461ec9" />
+  <Project Path="D:/Road To FAANG/DesignPatterns/Singleton/Singleton.csproj" />
 </Solution>
