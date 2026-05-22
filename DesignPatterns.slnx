@@ -6,5 +6,6 @@
   <Project Path="D:/Road To FAANG/DesignPatterns/FactoryMethod/Factory.csproj" />
   <Project Path="D:/Road To FAANG/DesignPatterns/Observer/Observer.csproj" Id="165bd6b9-8a07-404b-9282-c84aa2461ec9" />
   <Project Path="D:/Road To FAANG/DesignPatterns/Singleton/Singleton.csproj" />
+  <Project Path="Mediator/Mediator.csproj" Id="ea9d1fcb-497a-460c-9eaa-bf7c887c7bdd" />
   <Project Path="Strategy/Strategy.csproj" Id="0f3936e4-4048-42c9-9bc5-825d369bb142" />
 </Solution>
